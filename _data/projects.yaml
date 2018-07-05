@@ -3,3 +3,17 @@
   image: images/menuTranslation.png
   completed: true
 
+- title: jarvis
+  url: https://github.com/mohitpokharna/jarvis
+  image: images/jarvis.png
+  completed: false
+
+- title: 8086Emulator
+  url: https://github.com/mohitpokharna/8086Emulator
+  image: images/8086emulator.jpg
+  completed: true
+
+- title: AmazingAmazon
+  url: https://github.com/mohitpokharna/amazing_amazon
+  image: images/amazingamazon.png
+  completed: true
