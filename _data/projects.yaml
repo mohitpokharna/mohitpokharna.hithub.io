@@ -1,9 +1,5 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+- title: menuTranslation
+  url: https://github.com/mohitpokharna/menuTranslation
+  image: images/menuTranslation.png
+  completed: true
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
-  completed: false
