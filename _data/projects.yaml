@@ -3,9 +3,14 @@
   image: images/menuTranslation.png
   completed: true
 
+- title: Fiducial Markers Localization (InterIIT 2018 winners)
+  #url: 
+  image: images/fiducials/gif
+  completed: true
+
 - title: jarvis
   url: https://github.com/mohitpokharna/jarvis
-  image: images/jarvis.png
+  image: images/jarvis.jpg
   completed: false
 
 - title: 8086Emulator
