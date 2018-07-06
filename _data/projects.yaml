@@ -3,15 +3,15 @@
   image: images/menuTranslation.png
   completed: true
 
-- title: Fiducial Markers Localization (InterIIT 2018 winners)
-  #url: 
-  image: images/fiducials.gif
-  completed: true
-
 - title: jarvis
   url: https://github.com/mohitpokharna/jarvis
   image: images/jarvis.jpg
   completed: false
+
+- title: Fiducial Markers Localization (InterIIT 2018 winners)
+  #url: 
+  image: images/fiducials.gif
+  completed: true
 
 - title: 8086Emulator
   url: https://github.com/mohitpokharna/8086Emulator
@@ -21,4 +21,9 @@
 - title: AmazingAmazon
   url: https://github.com/mohitpokharna/amazing_amazon
   image: images/amazingamazon.png
+  completed: true
+
+- title: Resume
+  url: https://drive.google.com/open?id=1oUfmfHrmO1RzrpSuSF6L9EgncvEzDLsV
+  image: images/mohit.jpg
   completed: true

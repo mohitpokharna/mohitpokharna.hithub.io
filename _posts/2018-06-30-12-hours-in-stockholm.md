@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Markup: Syntax Highlighting"
-excerpt: "Post displaying the various ways of highlighting code in Markdown."
+title: "12 hours in Stockholm"
+excerpt: ""
 tags: 
-  - code
-  - syntax highlighting
+  - stockholm
+  - 
 ---
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
@@ -70,9 +70,3 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
    ```
         
 3. Now you can do this.
-
-### GitHub Gist Embed
-
-An example of a Gist embed below.
-
-{% gist e813c2560b0f1ecc9f5d pacman.patch %}
