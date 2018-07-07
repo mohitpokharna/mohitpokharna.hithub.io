@@ -55,7 +55,7 @@ linkedin:          mohit-pokharna-96640386
 #behance:           username
 
 # Gems
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
