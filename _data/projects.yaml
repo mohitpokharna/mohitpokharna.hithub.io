@@ -1,14 +1,14 @@
-- title: menuTranslation
+- title: MenuTranslation
   url: https://github.com/mohitpokharna/menuTranslation
   image: images/menuTranslation.png
   completed: true
 
-- title: jarvis
+- title: Espis
   url: https://github.com/mohitpokharna/jarvis
   image: images/jarvis.jpg
   completed: false
 
-- title: Fiducial Markers Localization (InterIIT 2018 winners)
+- title: Fiducials Localization
   #url: 
   image: images/fiducials.gif
   completed: true
