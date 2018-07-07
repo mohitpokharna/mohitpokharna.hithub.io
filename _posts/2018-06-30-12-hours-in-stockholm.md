@@ -31,5 +31,9 @@ tags:
 ### Overnight cruise from Stockholm to Turku
 
 
+Thank you for reading the blog. Get in touch if you have any questions.
+
+
+
 {% youtube "https://www.youtube.com/watch?v=cNTaFArEObU" %}
 
