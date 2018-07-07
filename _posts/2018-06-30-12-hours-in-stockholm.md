@@ -18,15 +18,15 @@ One bright night (Finnish nights in summers), he decided to plan a voyage to Sto
 
 **Mr X**: 'There are several ferries from Turku, the only difference being that the overnight ferries are a bit expensive but they are more entertaining.'
 
-From our bits and pieces of experience, we knew that Finns get super crazy when they are drunk. So we booked a cabin of 4 in Baltic Princess (Tallink - Silja Line) which started from Port of Turku at 20:00.
+From our bits and pieces of experience, we knew that Finns get super crazy when they are drunk. So we booked a cabin in Baltic Princess (Tallink - Silja Line) which started from Port of Turku at 20:00.
 
 The overnight cruise offered various activities/ services like Entertainment and Shows, Shopping (including Tax Free), Refreshing Sauna (Mr X couldn't stop thinking about this), and ofcourse Restaurants (lots of vegan options as well). We also bought the travel cards for 12€ which could be used for 24 hours in Stockholm.
 ![Cruise](../images/stockholm/cruise_.jpg){:class="img-responsive"}
 
-**BREAK**: Just like for every delta there exists an epsilon, for every X there exists a Y.
+Just like for every delta there exists an epsilon, for every X there exists a Y.  
 Ms Y was enlivened not because it was her first cruise but because of the sheer size of menu in the New Grande Buffet.
 
-The cruise had enough options to keep us engaged thoughout the night. Imagine dancing until dawn in the middle of Baltic Sea. Insane! The most adventurous part was climbing to the terrace of the ship and experiencing gale-like winds.
+The cruise had enough options to keep us engaged thoughout the night. Imagine dancing until dawn in the middle of Baltic Sea. Insane! The most adventurous part was climbing onto the open deck of the ship and experiencing gale-like winds.
 
 And if none of this seem exciting, watch Tobey Maguire shoot spider-webs from the super-comfortable cabins!
 
