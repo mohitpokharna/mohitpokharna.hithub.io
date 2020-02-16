@@ -3,8 +3,11 @@ layout: home
 ---
 # About Me
 
-I'm currently an undergraduate student at IIT Kharagpur majoring in Mathematics and Computing with a micro specialization in Entrepreneurship and Innovation.
+Software Engineer at [Mercari](https://about.mercari.com/en/), Japan.
 
-I'm also working as an AI intern for [Silo AI](https://silo.ai/), a private research lab in Finland.
+AI Engineer at [Silo AI](https://silo.ai/), Finland.
+
+Graduated from IIT Kharagpur with majors in Mathematics and Computing and a micro specialization in Entrepreneurship and Innovation.
+
 
 If you have a question, want to have an interesting conversation, or just want to say hi, send me an [email](mailto://mohitpokharna08@gmail.com).
